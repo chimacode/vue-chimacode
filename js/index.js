@@ -1,5 +1,5 @@
 var users = [
-    { id: 1, name: 'Programador', username: 'progifrs', email: 'prog@poa.ifrs.edu.br' },
+    { id: 1, name: 'Programador', username: 'progifrs', email: 'prog@poa.ifrs.gedu.br' },
     { id: 2, name: 'Patrick Garcia', username: 'patrick.garcia', email: 'patrick.garcia@poa.ifrs.edu.br' },
     { id: 3, name: 'Bugginho ', username: 'bugs', email: 'buginho@hotmail.com' },
     { id: 4, name: 'Guri da fronteira', username: 'guridf', email: 'guridf@churrasco.br' }
