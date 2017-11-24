@@ -1,5 +1,7 @@
 # vue-chimacode
 
+[![Vue.js](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://vuejs.org/)
+
 ### Link da apresentação Vue.js
 
 Segue [Vue.js Chimacode - IFRS](https://docs.google.com/presentation/d/1R4P1OlkqO_E50iFb759G4ah4wWaqY67Mc0mQsc_qKSw/edit#slide=id.p3).
