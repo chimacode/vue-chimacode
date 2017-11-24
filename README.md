@@ -14,7 +14,7 @@ Segue [Vue.js Chimacode - IFRS](https://docs.google.com/presentation/d/1R4P1Olkq
 # vue-cli
 npm install -g vue-cli
 
-Crie o repositório e acesso o mesmo
+# Crie o repositório e acesso o mesmo
 mkdir meu-projeto
 cd meu-projeto/
 
