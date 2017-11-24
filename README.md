@@ -32,4 +32,4 @@ npm run dev
 ### Meu contato
 :email: Email: patrick.garcia@aluno.poa.ifrs.edu.br
 
-:github: Github: https://github.com/trickvg
+Github: https://github.com/trickvg
