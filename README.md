@@ -28,6 +28,6 @@ npm run dev
 
 
 ### Meu contato
-:email: --> patrick.garcia@aluno.poa.ifrs.edu.br
+:email: Email: patrick.garcia@aluno.poa.ifrs.edu.br
 
-[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding) -- > 
+:github: Github: https://github.com/trickvg
