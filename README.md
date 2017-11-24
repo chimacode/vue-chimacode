@@ -1,5 +1,4 @@
 # vue-chimacode
-Repo do Works Vue  Chimacode - IFRS 2017
 
 ### Link da apresentação Vue.js
 
